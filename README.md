@@ -1,7 +1,7 @@
 # Banking Data Analysis
 
 ## Overview
-This project analyzes banking data to uncover insights about customer behavior, transaction patterns, and financial trends.
+This project conducts a comprehensive analysis of banking customer data to uncover valuable insights about customer behavior, financial product usage, and demographic trends. Using Python and various data analysis libraries, the project explores relationships between customer characteristics and their banking preferences, examining factors such as income levels, age demographics, credit utilization, and risk profiles. The analysis aims to provide actionable insights for customer segmentation, risk assessment, and strategic decision-making in banking operations.
 
 
 ## Analysis Objectives
