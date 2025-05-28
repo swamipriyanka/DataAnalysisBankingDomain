@@ -3,10 +3,6 @@
 ## Overview
 This project analyzes banking data to uncover insights about customer behavior, transaction patterns, and financial trends.
 
-## Dataset
-- **Source**: Guided project dataset
-- **Size**: [Number of records/time period]
-- **Total Variables**: 26 columns
 
 ## Analysis Objectives
 - Analyze customer demographics and geographic distribution
